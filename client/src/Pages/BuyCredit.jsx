@@ -5,5 +5,4 @@ const BuyCredit = () => {
     <div>BuyCredit</div>
   )
 }
-
 export default BuyCredit
