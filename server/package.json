@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gokul-aj/PicTora#readme",
+  "bugs": {
+    "url": "https://github.com/gokul-aj/PicTora/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gokul-aj/PicTora.git"
+  },
+  "license": "ISC",
+  "author": "gokul",
+  "type": "module",
+  "main": "Server.js",
+  
+  "scripts": {
+    
+    "start": "node server.js"
+  }
+}
