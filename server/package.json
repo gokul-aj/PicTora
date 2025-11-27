@@ -11,12 +11,13 @@
     "url": "git+https://github.com/gokul-aj/PicTora.git"
   },
   "license": "ISC",
-  "author": "gokul",
+  "author": "Gokul",
   "type": "module",
-  "main": "Server.js",
+  "main": "server.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
-    "server": "nodemon server.js "
+    "server": "nodemon server.js"
   },
   "dependencies": {
     "axios": "^1.13.2",
